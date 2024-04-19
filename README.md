@@ -1,7 +1,7 @@
 # Passwordle
 
 ## Introduction
-**Passwordle** is an unwinnable game where you try to guess the password
+**Passwordle** is an unwinnable game where you try to guess an 8-character string
 
 # Video Walkthrough
 Here's a walkthrough of the implemented features:
