@@ -1,9 +1,7 @@
 # Passwordle
-
-## Introduction
 **Passwordle** is an unwinnable game where you try to guess an 8-character string
 
-# Video Walkthrough
+## Video Walkthrough
 Here's a walkthrough of the implemented features:
 
 <img src='https://raw.githubusercontent.com/edithngundi/Passwordle/main/passwordle.gif' title='Video Walkthrough' width='900' height='500' alt='Video Walkthrough' />
