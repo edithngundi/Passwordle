@@ -6,7 +6,7 @@
 # Video Walkthrough
 Here's a walkthrough of the implemented features:
 
-<img src='https://raw.githubusercontent.com/edithngundi/Passwordle/main/passwordle.gif' title='Video Walkthrough' width='1000' height='500' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/edithngundi/Passwordle/main/passwordle.gif' title='Video Walkthrough' width='900' height='500' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
