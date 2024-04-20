@@ -25,8 +25,8 @@ After each guess, each character in your attempt will change color to indicate h
 - The indexing of characters for feedback purposes is as follows: Numbers are indexed 1-10, letters are indexed 11-36 (for each case), and special characters follow thereafter.
 
 ## Getting Started
-[EASIER OPTION] You can find the came on Itch.io at https://edithngundi.itch.io/passwordle and its accessible on any browser
+[EASIER OPTION] You can find the came on Itch.io at https://edithngundi.itch.io/passwordle and it is accessible on any browser
 
-[HARDER OPTION] Feel free to also clone this repository and running the game in Unity. To do this ensure you have Unity Hub and Unity Editor installed on your device. This repository is missing some library packages (files were too large to upload on GitHub) so ensure you also install relevant packages
+[HARDER OPTION] Feel free to also clone this repository and run the game in Unity. To do this ensure you have Unity Hub and Unity Editor installed on your device. This repository is missing some library packages (files were too large to upload on GitHub) so ensure you also install relevant packages
 
-Thank you for playing the Passwordle, and good luck!
+Thank you for playing Passwordle, and good luck!
